@@ -1,6 +1,6 @@
-# Kane_Friend
+# Kane Christopher Friend. 
 
-Ethical Hacker | Junior Penetration Tester.
+## Ethical Hacker | Junior Penetration Tester.
 
 # 💻 Tech Stack:
 
